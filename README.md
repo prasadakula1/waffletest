@@ -1,1 +1,1 @@
-closes #12
+close #12
